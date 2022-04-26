@@ -1,0 +1,16 @@
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\bin\Debug\net5.0\CSharp.LabExercise5.exe
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\bin\Debug\net5.0\CSharp.LabExercise5.deps.json
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\bin\Debug\net5.0\CSharp.LabExercise5.runtimeconfig.json
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\bin\Debug\net5.0\CSharp.LabExercise5.runtimeconfig.dev.json
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\bin\Debug\net5.0\CSharp.LabExercise5.dll
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\bin\Debug\net5.0\CSharp.LabExercise5.pdb
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.csproj.AssemblyReference.cache
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.AssemblyInfoInputs.cache
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.AssemblyInfo.cs
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.csproj.CoreCompileInputs.cache
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.dll
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\refint\CSharp.LabExercise5.dll
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.pdb
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\CSharp.LabExercise5.genruntimeconfig.cache
+C:\Users\jaddie.lorzano\source\repos\CSharp.LabExercise5\CSharp.LabExercise5\obj\Debug\net5.0\ref\CSharp.LabExercise5.dll
